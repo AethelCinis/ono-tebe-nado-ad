@@ -284,6 +284,10 @@ a {
   border-bottom: none;
 }
 
+.footer__address span {
+  border-bottom: none;
+}
+
 .footer__menu {
   justify-self: center;
 }
