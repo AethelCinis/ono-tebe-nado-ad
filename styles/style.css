@@ -73,7 +73,7 @@ a {
   background-image: url('../images/cover.jpg');
   background-size: cover;
   background-position: center;
-  min-height: 800px;
+  min-height: 750px;
   display: flex;
   padding: 50px;
 }
